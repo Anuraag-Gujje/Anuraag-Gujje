@@ -19,13 +19,7 @@ I’ve led multiple end-to-end BI and forecasting implementations for global cli
 
 🚀 **Featured Projects**
 - [Football Insights 360](https://github.com/Anuraag-Gujje/Football-Insights-360-ETL-and-Analytics) – API-based pipeline, data warehouse modeling, and performance dashboards  
-- [Car Resale Price Prediction System](https://github.com/anuraaggujje/car-resale-price-prediction) – ML model to predict resale value with web scraping, EDA, regression models, and dashboards  
-- [Stock Market Forecasting & Sentiment Analysis](https://github.com/anuraaggujje/stock-market-sentiment-lstm) – Twitter sentiment + LSTM neural network for trend prediction  
-- [Uber Rides ETL & Analytics](https://github.com/anuraaggujje/uber-data-etl-analytics) – Airflow-based ETL on Uber data into BigQuery with dashboards in Looker Studio  
-
-📊 **Dashboards & Visuals**
-- [Power BI Projects](https://app.powerbi.com/groups/me/) *(private unless shared)*
-- [Looker Studio Visuals](https://lookerstudio.google.com/u/0/navigation/reporting) *(placeholder)*
+- [Autowise Car Resale Marketplace](https://github.com/Anuraag-Gujje/Autowise-Car-Resale-Marketplace) – ML model to predict resale value with web scraping, EDA, regression models, and dashboards  
 
 🏆 **Certifications**
 - **Databricks Certified: Apache Spark Developer Associate**  
