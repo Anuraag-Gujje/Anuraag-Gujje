@@ -18,8 +18,8 @@ I’ve led multiple end-to-end BI and forecasting implementations for global cli
 [LinkedIn](https://www.linkedin.com/in/anuraag-gujje/) | gujje.anuraag@gmail.com
 
 🚀 **Featured Projects**
-- [Football Insights 360](https://github.com/Anuraag-Gujje/Football-Insights-360-ETL-and-Analytics) – API-based pipeline, data warehouse modeling, and performance dashboards  
-- [Autowise Car Resale Marketplace](https://github.com/Anuraag-Gujje/Autowise-Car-Resale-Marketplace) – ML model to predict resale value with web scraping, EDA, regression models, and dashboards  
+- [Football Insights 360](https://github.com/Anuraag-Gujje/Football-Insights-360-ETL-and-Analytics) – ETL & Analytics, Data Warehouse Modeling, and Analytic Dashboards  
+- [Autowise Car Resale Marketplace](https://github.com/Anuraag-Gujje/Autowise-Car-Resale-Marketplace) – ML model to predict resale value and smart recommendation system with web scraping, EDA, regression models, similarity models and dashboards
 
 🏆 **Certifications**
 - **Databricks Certified: Apache Spark Developer Associate**  
