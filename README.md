@@ -2,7 +2,7 @@
 
 Here's a little bit about me...
 
-I'm a passionate **Data Engineer** and **Business Intelligence Consultant** with 3+ years of experience designing and implementing scalable data solutions across supply chain, CPG, and education domains. I specialize in building **ETL/ELT pipelines**, dimensional data models, and cloud-based analytics systems using tools like **PySpark**, **SQL**, **Azure**, **Databricks**, **Airflow**, and **Power BI**. 
+I'm a passionate **Data Engineer** and **Business Intelligence Consultant** with 4+ years of experience designing and implementing scalable data solutions across supply chain, CPG, and education domains. I specialize in building **ETL/ELT pipelines**, dimensional data models, and cloud-based analytics systems using tools like **PySpark**, **SQL**, **Azure**, **Databricks**, **Airflow**, and **Power BI**. 
 
 I’ve led multiple end-to-end BI and forecasting implementations for global clients—translating raw data into actionable business insights that drive smarter decisions. I'm currently pursuing my Master’s in Business Analytics and Information Systems at **University of South Florida**, and I love working on projects that blend business strategy with cutting-edge technology.
 
